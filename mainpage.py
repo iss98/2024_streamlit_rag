@@ -8,7 +8,7 @@ if 'thread_id' not in st.session_state:
 
 # header를 이용하면 제목 입력이 가능합니다
 
-st.header("학생들이 만든 자료를 바탕으로 문제 만들어주는 콘텐츠")
+st.header("GOOOD 학생들이 만든 자료를 바탕으로 문제 만들어주는 콘텐츠")
 
 st.divider()
 
